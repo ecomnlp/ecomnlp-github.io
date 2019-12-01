@@ -1,0 +1,129 @@
+body {
+    padding-top: 10px;
+    color: #2F2E2E;
+    line-height: 125%;
+} 
+
+h2 {
+    color: #151965;
+    font-size: x-large;
+    font-family: 'Alef', cursive;
+}
+
+a:link {
+    color: #2F2E2E;
+    text-decoration:underline;
+}
+
+a:visited {
+    color: #2F2E2E;
+    text-decoration:underline;
+}
+
+a:hover {
+    color: #32407B !important;
+    text-decoration:underline;
+}
+
+.content-unit {
+    height: 64px;
+    text-align: left;
+    background-image: url(alonso-navarro-Bwg5L-sks3g-unsplash.jpg);
+    text-shadow: 2px 2px 5px #2F2E2E;
+    background-size: cover; 
+    color:#FFFFFF;
+    border-radius: 10px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.conference-title {
+    padding-left: 15px;
+    padding-right: 10px;
+    font-size: 40px;
+    font-family: 'Audiowide', cursive;
+}
+
+.page-title {
+    font-size: 36px;
+    padding-left: 10px;
+    font-family: 'Alef', cursive;
+}
+
+.page-home {
+    font-size: 24pt;
+    padding-right: 15px;
+    padding-top: 11px;
+}
+
+.page-home a:link {
+    color: #FFFFFF;
+}
+
+.page-home a:visited {
+    color: #FFFFFF;
+}
+
+.page-home a:hover {
+    color: #32407B;
+}
+
+.session {
+    font-weight: bold;
+}
+
+.last_line {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.last_session_line {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: thin dotted gray;
+}
+
+#sidebar {
+  padding-top: 5px;
+  text-align: left;
+}
+#sidebar h2 {
+  font-family: 'Alef', cursive;
+  color: #151965;
+  font-size: x-large;
+  letter-spacing: 2px;
+}
+#sidebar ul {
+  font-size: 18px;
+  list-style-type: none;
+}
+#sidebar li {
+  margin-top: 8px;
+  line-height: 150%;
+}
+
+#sidebar a:link {
+    color: #2F2E2E;
+    text-decoration:none;
+}
+
+#sidebar a:visited {
+    color: #2F2E2E;
+    text-decoration: none;
+}
+
+#sidebar a:hover {
+    color: #32407B;
+}
+
+#main {
+    padding-top: 15px;
+    max-width: 665px;
+}
+
+#main td {
+    min-width:200px;
+    padding-left:50px;
+}
+

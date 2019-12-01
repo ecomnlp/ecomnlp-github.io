@@ -1,0 +1,112 @@
+/* https://colorhunt.co/palette/164611 */
+body {
+    padding-top: 10px;
+    margin: 0 auto;
+} 
+
+.cover-unit {
+    height: 520px;
+    text-align: center;
+    background-image: url(alonso-navarro-Bwg5L-sks3g-unsplash.jpg);
+    text-shadow: 2px 2px 5px #2F2E2E;
+    background-size: cover; 
+    color:#FFFFFF;
+    border-radius: 10px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+body h1 { padding-top: 120px;}
+
+a:link {
+    color: #2F2E2E;
+    text-decoration:none;
+}
+
+a:visited {
+    color: #2F2E2E;
+    text-decoration:none;
+}
+
+a:hover {
+    color: #32407B !important;
+    text-decoration:underline;
+}
+
+.cover-title {
+    font-size: 60px;
+    font-family: 'Audiowide', cursive;
+}
+
+.small-title {
+    padding-bottom: 25px;
+}
+
+.caption {
+    padding-bottom: 25px;
+}
+
+.cover-nav-area {
+    padding-top: 15px;
+}
+
+.cover-nav-area a:link {
+    color: #2F2E2E;
+}
+
+.cover-nav-area a:visited {
+    color: #2F2E2E;
+}
+
+.cover-nav-area a:hover {
+    color: #32407B;
+}
+
+.cover-nav {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.cover-nav-title {
+    font-family: 'Alef', cursive;
+    color: #151965;
+    /*text-shadow: 1px 1px 1px #2F2E2E;*/
+    padding-right: 15px;
+}
+
+.cover-nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-left: solid;
+    border-left-color: #32407B;
+    border-left-width: thin;
+    color: #151965;
+}
+
+.footer {
+    text-align: center; 
+    font-size:small;
+    color: gray;
+}
+
+.colingbtn a:link {
+    color: #2F2E2E !important;  
+    text-decoration: none;
+        text-shadow: none;
+
+}
+
+.colingbtn a:visited {
+    color: #2F2E2E !important;  
+    text-decoration: none;
+    text-shadow: none;
+
+}
+
+.colingbtn a:hover {
+    color: #2F2E2E !important;    
+    text-decoration: none;
+    background-color: #515585 !important;
+    text-shadow: none;
+}
