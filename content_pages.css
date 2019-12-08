@@ -96,6 +96,10 @@ a:hover {
   font-size: x-large;
   letter-spacing: 2px;
 }
+#sidebarhome h2 {
+  font-family: 'Audiowide', cursive;
+  letter-spacing: normal;
+}
 #sidebar ul {
   font-size: 18px;
   list-style-type: none;
