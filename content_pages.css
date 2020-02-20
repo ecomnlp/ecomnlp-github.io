@@ -1,3 +1,6 @@
+/* Old: https://colorhunt.co/palette/164611 */
+/* New: https://colorhunt.co/palette/165669 */
+
 body {
     padding-top: 10px;
     color: #2F2E2E;
@@ -5,7 +8,8 @@ body {
 }
 
 h2 {
-    color: #151965;
+    color: #B2DFFB;
+    text-shadow: 1px 1px 1px #8F8F8F;
     font-size: x-large;
     font-family: 'Alef', cursive;
 }
@@ -21,15 +25,14 @@ a:visited {
 }
 
 a:hover {
-    color: #32407B !important;
+    color: #FFC55C !important;
     text-decoration:underline;
 }
 
 .content-unit {
     height: 64px;
     text-align: left;
-    background-image: url(alonso-navarro-Bwg5L-sks3g-unsplash.jpg);
-    text-shadow: 2px 2px 5px #2F2E2E;
+    background-image: url(daniel-corneschi-N6HTCyN50p0-unsplash.jpg);
     background-size: cover;
     color:#FFFFFF;
     border-radius: 10px;
@@ -49,6 +52,7 @@ a:hover {
     font-size: 36px;
     padding-left: 25px;
     line-height: 64px;
+    text-shadow: 1px 1px 1px #8F8F8F;
     font-family: 'Alef', cursive;
 }
 
@@ -67,7 +71,7 @@ a:hover {
 }
 
 .page-home a:hover {
-    color: #32407B;
+    color: #FFC55C;
 }
 
 .session {
@@ -85,6 +89,16 @@ a:hover {
     border-bottom: thin dotted gray;
 }
 
+.important {
+    color: #FFC55C;
+    font-weight: bold;
+}
+
+.highlight {
+    color: #E7AAE4;
+    font-weight: bold;
+}
+
 #sidebar {
   padding-top: 5px;
   text-align: left;
@@ -92,12 +106,13 @@ a:hover {
 }
 #sidebar h2 {
   font-family: 'Alef', cursive;
-  color: #151965;
+  text-shadow: 1px 1px 1px #8F8F8F;
+  color: #B2DFFB;
   font-size: x-large;
-  letter-spacing: 2px;
 }
 #sidebarhome h2 {
   font-family: 'Audiowide', cursive;
+  text-shadow: 1px 1px 1px #8F8F8F;
   letter-spacing: normal;
 }
 #sidebar ul {
@@ -120,7 +135,7 @@ a:hover {
 }
 
 #sidebar a:hover {
-    color: #32407B;
+    color: #FFC55C;
 }
 
 #main {
