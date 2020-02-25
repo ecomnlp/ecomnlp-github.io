@@ -1,13 +1,14 @@
-/* https://colorhunt.co/palette/164611 */
+/* Old: https://colorhunt.co/palette/164611 */
+/* New: https://colorhunt.co/palette/165669 */
 body {
     padding-top: 10px;
     margin: 0 auto;
 } 
 
 .cover-unit {
-    height: 520px;
+    height: 600px;
     text-align: center;
-    background-image: url(alonso-navarro-Bwg5L-sks3g-unsplash.jpg);
+    background-image: url(daniel-corneschi-N6HTCyN50p0-unsplash.jpg);
     text-shadow: 2px 2px 5px #2F2E2E;
     background-size: cover; 
     color:#FFFFFF;
@@ -30,7 +31,7 @@ a:visited {
 }
 
 a:hover {
-    color: #32407B !important;
+    color: #FFC55C !important;
     text-decoration:underline;
 }
 
@@ -60,7 +61,7 @@ a:hover {
 }
 
 .cover-nav-area a:hover {
-    color: #32407B;
+    color: #FFC55C;
 }
 
 .cover-nav {
@@ -70,8 +71,9 @@ a:hover {
 
 .cover-nav-title {
     font-family: 'Alef', cursive;
-    color: #151965;
-    /*text-shadow: 1px 1px 1px #2F2E2E;*/
+    color: #b2dffb;
+    /*text-shadow: 2px 2px 1px #2F2E2E;*/
+    text-shadow: 1px 1px 1px #8F8F8F;
     padding-right: 15px;
 }
 
@@ -79,7 +81,7 @@ a:hover {
     padding-left: 15px;
     padding-right: 15px;
     border-left: solid;
-    border-left-color: #32407B;
+    border-left-color: #b2dffb;
     border-left-width: thin;
     color: #151965;
 }
@@ -107,6 +109,6 @@ a:hover {
 .colingbtn a:hover {
     color: #2F2E2E !important;    
     text-decoration: none;
-    background-color: #515585 !important;
+    background-color: #b2dffb !important;
     text-shadow: none;
 }
